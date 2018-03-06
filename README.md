@@ -16,5 +16,13 @@ A custom blockchain sample built using python and flask framework
 
 
 
-[Reference](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-Status: Need to continue from Consensus
+>[Reference](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+
+#### Status:
+- Finished:
+  - Mining
+  - Chain
+- Not working:
+  - New transactions
+- Untested:
+  - Consensus
